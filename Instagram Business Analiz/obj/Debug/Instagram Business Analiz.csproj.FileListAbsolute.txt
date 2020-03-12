@@ -1,0 +1,14 @@
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\5- Instagram Business Analiz\Instagram Business Analiz\Instagram Business Analiz\bin\Debug\Instagram Business Analiz.exe.config
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\5- Instagram Business Analiz\Instagram Business Analiz\Instagram Business Analiz\bin\Debug\Instagram Business Analiz.exe
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\5- Instagram Business Analiz\Instagram Business Analiz\Instagram Business Analiz\bin\Debug\Instagram Business Analiz.pdb
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\5- Instagram Business Analiz\Instagram Business Analiz\Instagram Business Analiz\obj\Debug\Instagram Business Analiz.csprojAssemblyReference.cache
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\5- Instagram Business Analiz\Instagram Business Analiz\Instagram Business Analiz\obj\Debug\Instagram_Business_Analiz.Form1.resources
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\5- Instagram Business Analiz\Instagram Business Analiz\Instagram Business Analiz\obj\Debug\Instagram_Business_Analiz.Properties.Resources.resources
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\5- Instagram Business Analiz\Instagram Business Analiz\Instagram Business Analiz\obj\Debug\Instagram Business Analiz.csproj.GenerateResource.cache
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\5- Instagram Business Analiz\Instagram Business Analiz\Instagram Business Analiz\obj\Debug\Instagram Business Analiz.csproj.CoreCompileInputs.cache
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\5- Instagram Business Analiz\Instagram Business Analiz\Instagram Business Analiz\obj\Debug\Instagram Business Analiz.exe
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\5- Instagram Business Analiz\Instagram Business Analiz\Instagram Business Analiz\obj\Debug\Instagram Business Analiz.pdb
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\5- Instagram Business Analiz\Instagram Business Analiz\Instagram Business Analiz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\5- Instagram Business Analiz\Instagram Business Analiz\Instagram Business Analiz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\5- Instagram Business Analiz\Instagram Business Analiz\Instagram Business Analiz\obj\Debug\Instagram Business Analiz.csproj.CopyComplete
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\5- Instagram Business Analiz\Instagram Business Analiz\Instagram Business Analiz\obj\Debug\Instagram Business Analiz.csproj.ResolveComReference.cache
